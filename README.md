@@ -1,6 +1,8 @@
 # K210-RTThread
 
-## [**K210**](https://www.canaan-creative.com/product/kendryteai):
+## **K210简介**:
+
+勘智K10采用RISCV理器架构,具备视听一体,自主IP核与可编程能力强三大特点,支持机器视觉与机器听觉多模态识别,可广泛应用于智能家居,智能园区,智能耗和智能农业等场景.
 
 | K210 芯片基本参数 |                                                              |
 | ----------------- | ------------------------------------------------------------ |
@@ -16,5 +18,5 @@
 
 ## 开发环境搭建
 
-1. 编译器仓库地址:[kendryte-gnu-toolchain](https://github.com/kendryte/kendryte-gnu-toolchain)
-2. 烧录器仓库地址:[kflash](https://github.com/kendryte/kflash.py)
+- **编译器仓库地址:[kendryte-gnu-toolchain](https://github.com/kendryte/kendryte-gnu-toolchain)**
+- **烧录器仓库地址:[kflash](https://github.com/kendryte/kflash.py)**
